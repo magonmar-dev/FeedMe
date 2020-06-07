@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FeedMe</string>
+    <string name="cargando">Cargando...</string>
+    <string name="t_tulo_de_la_noticia">Título de la noticia</string>
+    <string name="_06_06_2020">06/06/2020</string>
+    <string name="descripci_n_de_la_noticia">Descripción de la noticia</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_detalles">DetallesActivity</string>
+    <string name="contenido_de_la_noticia">Contenido de la noticia</string>
+    <string name="imagen_de_la_noticia">Imagen de la noticia</string>
+
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="feedme">FeedMe</string>
+    <string name="mariagm173_hotmail_com">mariagm173@hotmail.com</string>
+</resources>
